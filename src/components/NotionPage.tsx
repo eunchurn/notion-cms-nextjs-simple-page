@@ -21,7 +21,7 @@ export const NotionPage = ({
   return (
     <>
       <Head>
-        <meta name="description" content="React Notion X Minimal Demo" />
+        <meta name="description" content="Notion CMS Nextjs simple page" />
 
         <title>{title}</title>
       </Head>
