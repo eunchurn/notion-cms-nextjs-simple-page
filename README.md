@@ -20,3 +20,8 @@ yarn dev
 ```
 
 check `http://localhost:3000/b4528200eb584f77aac8b2733ed25e87`
+
+## Demo
+
+- Notion page: <https://grateful-amethyst-4b7.notion.site/b4528200eb584f77aac8b2733ed25e87>
+- Deployed page: <https://notion-cms-nextjs-simple-page.vercel.app/b4528200eb584f77aac8b2733ed25e87>
